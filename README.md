@@ -13,9 +13,7 @@ A concise task management API built with Node.js and Express, featuring structur
   - [Configuration](#configuration)  
   - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)  
-- [Middleware & Utilities](#middleware--utilities)  
-- [Contributing](#contributing)  
-- [License](#license)
+  
 
 ---
 
